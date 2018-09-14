@@ -4,7 +4,7 @@ p.p() takes multiple arguments and prints them out each in a new line in the ord
 p.i() prints out in the same line.
 
 
-Code for copy and paste below:
+Copy and paste below:
 
     //i've decided that typing sout tab takes too much time
     //p.p() is sout tab
