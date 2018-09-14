@@ -6,16 +6,11 @@ p.i() prints out in the same line.
 
 Code for copy and paste below:
 
-//i've decided that typing sout tab takes too much time
-
-//p.p() is sout tab
-
-//it can take multiple arguments and prints them each in a new line
-
-//p.i() is System.out.print()
-
-
-
+    //i've decided that typing sout tab takes too much time
+    //p.p() is sout tab
+    //it can take multiple arguments and prints them each in a new line
+    //p.i() is System.out.print()
+    
     public class p {
         public static void i (String a){
             System.out.print(a);
