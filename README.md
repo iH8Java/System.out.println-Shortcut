@@ -1,7 +1,7 @@
 # System.out.println-Shortcut
-p.p() prints out foo in a new line.
-p.p() takes multiple arguments and prints them out each in a new line in the order they appear in the method.
-p.i() prints out in the same line.
+p.p() prints out foo in a new line.  
+p.p() takes multiple arguments and prints them out each in a new line in the order they appear in the method.  
+p.i() prints out in the same line.  
 
 
 Copy and paste below:
